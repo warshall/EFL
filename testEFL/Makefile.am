@@ -5,3 +5,6 @@ bin_PROGRAMS = myapp
 myapp_SOURCES = src/main.c src/main.h
 myapp_LDADD = @ELEMENTARY_LIBS@
 myapp_CFLAGS = @ELEMENTARY_CFLAGS@
+
+
+##aaa
